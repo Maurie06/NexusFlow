@@ -1,8 +1,6 @@
 # My First Code
 <!DOCTYPE html>
-<html>
-<head>
-    <h1>Hello Goodwall!</h1>
+<html>Hello Goodwall!<html>
     <p>This is my first code.</p>
 </body>
 </html>
